@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Daniel (Mas gosto que me chamem de Thomas)
 
-- 🌱 Estudando Java.
+- 🌱 Estudando Java
 - 📫 Contate-te me no email: danieljrodrigues127@gmail.com
 - 😄 Pronouns: ele/dele (he/him)
 
