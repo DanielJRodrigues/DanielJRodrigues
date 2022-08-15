@@ -1,4 +1,4 @@
-### Olá! Eu sou o Daniel (Mas gosto que me chamem de Thomas)
+### Olá! Eu sou o Daniel 
 
 - 🌱 Estudando Java
 - 📫 Contate-me no email: danieljrodrigues127@gmail.com
