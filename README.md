@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Java
 - 📫 Contate-me no email: danieljrodrigues127@gmail.com
-- 😄 Pronouns: ele/dele (he/him)
+
 
 <div align="center">
   <a href="https://github.com/DanielJRodrigues">
