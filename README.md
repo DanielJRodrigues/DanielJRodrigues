@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Java
 - 📫 Contate-me no email: danieljrodrigues127@gmail.com
+- 💼 LinkedIn https://www.linkedin.com/in/daniel-rodrigues-090194222/
 
 
 <div align="center">
